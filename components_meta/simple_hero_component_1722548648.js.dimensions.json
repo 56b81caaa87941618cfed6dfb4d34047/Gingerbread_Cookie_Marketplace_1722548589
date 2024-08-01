@@ -1,10 +1,10 @@
 {
     "id": "simple_hero_component_1722548648",
-    "name": "simple_hero_component",
+    "name": "simple-hero-component",
     "type": "containerComponent",
     "metadata": {},
     "w": 12,
-    "h": 12,
+    "h": 8,
     "x": 0,
     "y": 0,
     "i": "0",
