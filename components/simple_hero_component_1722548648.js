@@ -9,7 +9,7 @@ Vue.component("simple_hero_component_1722548648", {
                 <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
                     
                     <div id="hero-title-container-text" class="flex">
-                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Delicious Gingerbread Cookies Baked Fresh</h1>
+                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Indulge in Irresistible Gingerbread Magic!</h1>
                     </div>
 
                     <div id="hero-subtitle-container" class="flex">
