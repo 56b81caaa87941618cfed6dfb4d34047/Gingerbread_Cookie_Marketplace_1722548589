@@ -18,5 +18,11 @@
         "content": "Sure, I'll work on making the main hero text more attention-grabbing.",
         "timestamp": "01082024215252",
         "message_id": "guest01082024215251"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the hero text to be more concise and impactful, or detailed and informative?\", \"option1\": \"Concise and impactful\", \"option2\": \"Detailed and informative\"}, {\"question 2\": \"Are you aiming for the hero text to appeal more to emotions or to highlight the unique selling points of your gingerbread cookies?\", \"option1\": \"Appeal more to emotions\", \"option2\": \"Highlight unique selling points\"}], \"input_token_count\": 260, \"output_token_count\": 104, \"time_taken\": \"0:00:05.183971\"}",
+        "timestamp": "01082024215257",
+        "message_id": "guest01082024215251"
     }
 ]
