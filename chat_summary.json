@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the hero text to be more concise and impactful, or detailed and informative?\", \"option1\": \"Concise and impactful\", \"option2\": \"Detailed and informative\"}, {\"question 2\": \"Are you aiming for the hero text to appeal more to emotions or to highlight the unique selling points of your gingerbread cookies?\", \"option1\": \"Appeal more to emotions\", \"option2\": \"Highlight unique selling points\"}], \"input_token_count\": 260, \"output_token_count\": 104, \"time_taken\": \"0:00:05.183971\"}",
         "timestamp": "01082024215257",
         "message_id": "guest01082024215251"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an animated background to the hero section that showcases falling gingerbread cookies\", \"checked\": true}, {\"feature\": \"Incorporate a typewriter effect for the hero text to grab attention\", \"checked\": false}, {\"feature\": \"Implement a 'hover over' effect on the hero text for interactive engagement\", \"checked\": true}, {\"feature\": \"Design a 'limited time offer' banner above the hero section to create urgency\", \"checked\": true}, {\"feature\": \"Include a user testimonial slider directly below the hero text to build trust\", \"checked\": false}, {\"feature\": \"Add a 'Watch Our Story' button next to the hero text linking to a brand story video\", \"checked\": true}], \"input_token_count\": 214, \"output_token_count\": 151, \"time_taken\": \"0:00:07.052995\"}",
+        "timestamp": "01082024215259",
+        "message_id": "guest01082024215251"
     }
 ]
