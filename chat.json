@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the call to action buttons to have a more modern or classic design?\", \"option1\": \"Modern\", \"option2\": \"Classic\"}, {\"question 2\": \"Do you have specific color schemes in mind for the call to action buttons to match the website's theme?\", \"option1\": \"Yes, I have specific colors in mind\", \"option2\": \"No, I'd like recommendations based on the website's current theme\"}], \"input_token_count\": 267, \"output_token_count\": 105, \"time_taken\": \"0:00:09.215643\"}",
+        "message_id": "guest01082024220043",
+        "timestamp": "01082024220059",
+        "component_file_name": "simple_hero_component_1722548648",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement dynamic, responsive button designs with hover effects\", \"checked\": true}, {\"feature\": \"Integrate brand-consistent button colors and fonts\", \"checked\": true}, {\"feature\": \"Add subtle animation effects to buttons for a more engaging user experience\", \"checked\": false}, {\"feature\": \"Ensure all call-to-action buttons are mobile-friendly and easily clickable\", \"checked\": true}, {\"feature\": \"Use A/B testing to determine the most effective button designs\", \"checked\": false}, {\"feature\": \"Include accessibility enhancements for all buttons, such as keyboard navigation and screen reader support\", \"checked\": false}], \"input_token_count\": 221, \"output_token_count\": 129, \"time_taken\": \"0:00:04.617435\"}",
         "message_id": "guest01082024220043",
