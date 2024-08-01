@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Certainly, I'll work on reworking the call to action buttons.",
+        "message_id": "guest01082024220043",
+        "timestamp": "01082024220043",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "The call to action buttons look a little goofy -- rework them please",
         "message_id": "guest01082024220043",
