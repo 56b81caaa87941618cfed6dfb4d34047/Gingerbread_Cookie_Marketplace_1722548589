@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Make the main hero text more catchy",
+        "message_id": "guest01082024215251",
+        "timestamp": "01082024215251",
+        "component_file_name": "simple_hero_component_1722548648",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
