@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the gradient to be more subtle or vivid in its color transitions?\", \"option1\": \"Subtle\", \"option2\": \"Vivid\"}, {\"question 2\": \"Should the gradient direction be vertical, horizontal, or diagonal?\", \"option1\": \"Vertical\", \"option2\": \"Horizontal\", \"option3\": \"Diagonal\"}], \"input_token_count\": 259, \"output_token_count\": 86, \"time_taken\": \"0:00:03.265406\"}",
+        "message_id": "guest01082024215947",
+        "timestamp": "01082024215951",
+        "component_file_name": "simple_hero_component_1722548648",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it! Implementing a three color gradient background now.",
         "message_id": "guest01082024215947",
