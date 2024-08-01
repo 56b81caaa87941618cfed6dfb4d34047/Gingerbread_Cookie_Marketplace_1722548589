@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "Add a three color gradient background"
+    },
+    {
+        "level": 1,
+        "task_description": "The call to action buttons look a little goofy -- rework them please"
     }
 ]
